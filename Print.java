@@ -1,4 +1,4 @@
-// Your First Program
+
 
 class Print {
 
@@ -8,12 +8,6 @@ class Print {
         System.out.println(2);
         System.out.println(3);
         System.out.println(5);
-        // print1_100();
-    }
-
-    private static void print1_100() {
-        for(int i=1;i<=100;i=i+2) {  // revised print even numbers from 0-100
-            System.out.println(i); 
-        }
+        // print first 5 numbers of fibonacci. Looking at how to print first 100 numbers of fibonacci;
     }
 }
