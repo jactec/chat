@@ -3,7 +3,12 @@
 class Print {
 
     public static void main(String[] args) {
-        print1_100();
+        System.out.println(1);
+        System.out.println(1); 
+        System.out.println(2);
+        System.out.println(3);
+        System.out.println(5);
+        // print1_100();
     }
 
     private static void print1_100() {
