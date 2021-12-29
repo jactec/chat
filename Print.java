@@ -7,7 +7,7 @@ class Print {
     }
 
     private static void print1_100() {
-        for(int i=0;i<=100;i=i+2) {  // revised print even numbers from 0-100
+        for(int i=1;i<=100;i=i+2) {  // revised print even numbers from 0-100
             System.out.println(i); 
         }
     }
